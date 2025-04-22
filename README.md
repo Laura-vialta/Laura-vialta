@@ -90,24 +90,62 @@ Além disso, sou entusiasta de ferramentas de visualização como Power BI, Tabl
 <br/>
 <br/>
 
+
 ---
 
-### 📊 Estatísticas GitHub
+### 🚀 **Meus Projetos** 💻
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Laura-vialta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-    align="left" 
-    alt="GitHub Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-vialta&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8" 
-/>
+## 📦 **Projetos com Sistemas Embarcados**
 
-</p>
+> Confira abaixo meus projetos desenvolvidos no simulador **Wokwi**, com foco em **Sistemas Embarcados**!
+
+---
+
+### 🔘 **1. Acionar LED com 5 Cliques no Botão A**
+🔗 [Acessar no Wokwi](https://wokwi.com/projects/421896244346663937)  
+📝 Um LED pisca por 10 segundos a 10Hz após o botão A ser pressionado 5 vezes.
+
+---
+
+### 🔁 **2. Frequência Alternada com Botão B**
+🔗 [Acessar no Wokwi](https://wokwi.com/projects/421896634798701569)  
+📝 O botão B altera a frequência do LED de 10Hz para 1Hz dinamicamente.
+
+---
+
+### 🧪 **3. Comunicação UART - Teste de Envio/Recebimento**
+🔗 [Acessar no Wokwi](https://wokwi.com/projects/421897888013912065)  
+📝 Envia um dado via `scanf`, transmite entre UART0 e UART1, e imprime com `printf`.
+
+---
+
+### 🕰️ **4. Leitura de Hora com RTC DS1307 (I2C)**
+🔗 [Acessar no Wokwi](https://wokwi.com/projects/421899794956521473)  
+📝 RTC configurado manualmente para 24/09/2024 13:27:00, com leitura a cada 5 segundos.
+
+---
+
+### 🌈 **5. PWM em LEDs RGB com Duty Cycle Dinâmico**
+🔗 [Acessar no Wokwi](https://wokwi.com/projects/421901280890553345)  
+📝 Frequências variadas com PWM e alterações a cada 2 segundos.
+
+---
+
+### 🌡️ **6. Conversor de Temperatura: Celsius para Fahrenheit**
+🔗 [Acessar no Wokwi](https://wokwi.com/projects/421901874106797057)  
+📝 Adaptação de projeto ADC para exibir a temperatura em Fahrenheit.
+
+---
+
+### 🏥 **7. Sistema de Triagem Hospitalar Virtual**
+🔗 [Acessar no Wokwi](https://wokwi.com/projects/423258970314843137)  
+📝 Simulação de triagem automatizada para otimizar atendimentos hospitalares.
+
+---
+
+### 🔐 **8. Cofre Digital com Senha**
+🔗 [Acessar no Wokwi](https://wokwi.com/projects/420811690701824001)  
+📝 Projeto de um cofre digital com teclado matricial. O sistema verifica a senha digitada e libera o acesso caso esteja correta.
+
