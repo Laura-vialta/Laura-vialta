@@ -93,14 +93,14 @@ Além disso, sou entusiasta de ferramentas de visualização como Power BI, Tabl
 **Confira os repositórios com os meus projetos mais recentes!**
 
 #### 🔍 **Projetos em Ciência de Dados**  
-🔗 [Acesse aqui!](https://github.com/seuusuario/projetos-data-science-laura)  
+🔗 [Acesse aqui!](https://github.com/Laura-vialta/projetos-data-science-laura)  
 💡 Projetos focados em **Data Science**, **Machine Learning**, **Deep Learning**, **Análise Preditiva** e **Visualização de Dados**.  
 👨‍💻 **Aprendizado por Reforço**, **Redes Neurais**, **Engenharia de Atributos**, **GANs** e mais!
 
 ---
 
 #### ⚙️ **Projetos com Sistemas Embarcados**  
-🔗 [Acesse aqui!](https://github.com/seuusuario/sistemas-embaracados-laura)  
+🔗 [Acesse aqui!](https://github.com/Laura-vialta/sistemas-embaracados-laura)  
 💡 Explore projetos práticos em **Sistemas Embarcados**, com foco em **Microcontroladores**, **Sensores** e **Automação**.  
 🔧 **Arduino**, **ESP32**, **Comunicação UART**, **Controle de Sensores** e muito mais!
 
