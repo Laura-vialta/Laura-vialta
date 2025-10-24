@@ -93,7 +93,7 @@ Além disso, sou entusiasta de ferramentas de visualização como Power BI, Tabl
 **Confira os repositórios com os meus projetos mais recentes!**
 
 #### **🔍 Projetos em Finanças e Análise de Dados**  
-🔗 [Acesse aqui!](https://github.com/Laura-vialta/Finan-as-analise_de_dados-laura)  
+🔗 [Acesse aqui!](https://github.com/Laura-vialta/projetos-financas)  
 💡 Projetos focados em Finanças Corporativas, Contabilidade, Análise de Dados e Python.
 📊 Cálculo de WACC, Beta, Valuation, Visualização Financeira, Comparação de Empresas e Setores, e mais!
 
